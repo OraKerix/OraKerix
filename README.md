@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h1></h1>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Kerix
@@ -44,6 +44,10 @@ fields_of_interests:
 currently_learning: ["Java" , "Python" , "HTML"]
 current_project: "Smart&SimpleAPI"
 2024 Goals: ["Create 10+ Projects and learn at least 2-5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Chess", "Music"]
+hobbies: ["Gaming", "Cinema", "Chess", "Music" , "Dev"]
 
 ``` 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
