@@ -39,7 +39,7 @@ fields_of_interests:
     "Game Development",
   ]
   
-currently_learning: ["Java , Python ..."]
+currently_learning: ["Java" , "Python" , "HTML"]
 current_project: "Smart&SimpleAPI"
 2024 Goals: ["Create 10+ Projects and learn at least 2-5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Chess", "Music"]
